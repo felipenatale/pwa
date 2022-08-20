@@ -1,0 +1,10 @@
+{
+    "name":"Sinnal_App",
+    "short_name":"Sinnal_App",
+
+    "icons":[],
+    "theme_color":"#000000",
+    "background_color":"#FFFFFF",
+    "display":"fullscreen",
+    "orientation":"portrait"
+}
